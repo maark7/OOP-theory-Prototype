@@ -15,11 +15,11 @@ D:/my games/OOP theory Prototype
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-54221
+63040
 Successfully changed project path to: D:/my games/OOP theory Prototype
 D:/my games/OOP theory Prototype
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 121.23 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 205.10 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.11f1 (99c7afb366b3)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
@@ -31,9 +31,3 @@ Direct3D:
     Vendor:   
     VRAM:     503 MB
     Driver:   15.301.1901.0
-Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56040
-Begin MonoManager ReloadAssembly

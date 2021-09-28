@@ -6,6 +6,7 @@ using TMPro;
 public class Car : Vehicles
 {
     public TextMeshProUGUI nameText;
+    public TextMeshProUGUI tyresText;
 
     public override void Name()
     {
@@ -16,6 +17,6 @@ public class Car : Vehicles
     public override void features()
     {
         tyres = 4;
-        Debug.Log(tyres);
+        tyresText.SetText($"Tyres : {tyres}");
     }
 }
